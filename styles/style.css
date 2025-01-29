@@ -123,13 +123,12 @@ body {
     }
 
     .main{
-        padding: 4em 2em;
+        padding: 10em 1em;
+    }
+    .main__content{
+        padding: 2em 0;
     }
 
-    .car{
-        padding: 1em 1em;
-    }
-  
     .main__content__title, .main__title{
         font-size: 2em;
     }
@@ -148,7 +147,6 @@ body {
         
     }
     .footer{
-        padding: 2em;
         font-size: 0.8rem;
     }
 
